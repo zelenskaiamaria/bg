@@ -28,7 +28,7 @@ a{
  }
 
 .front__page{
-    background: url("C:/Users/37533/Downloads/starsky.webp");
+    background: url("starsky.webp");
     height: max-content;
     display:flex;
     align-items: center;
@@ -90,7 +90,7 @@ a{
     
  }
  .second__page{
-    background: url("C:/Users/37533/Downloads/starsky.webp"); 
+    background: url("starsky.webp"); 
     height: auto;
     padding: 10px 0 0 0;
     margin: 0;
